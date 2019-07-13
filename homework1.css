@@ -1,0 +1,102 @@
+#about-image{
+    float:left;
+    padding: 10px;
+    border: 1px, white;
+}
+
+#top {text-align:right; 
+    font-size: 20px;
+}
+h1 {font-family: Georgia, 'Times New Roman', Times, serif
+}
+.nav{ float: right;
+    word-spacing: 4px
+}
+.about-me {
+    background: white;
+    max-width: 800px;
+    position: absolute;
+    left: 15%;
+    right:10%;
+    top: 100px;
+    bottom: auto;
+}
+.page-title {
+    display: inline;
+}
+.footer{
+position: relative;
+left: 0;
+bottom: 0;
+max-width: 100%;
+border-top: solid 5px white;
+background-color: grey;
+color: blue;
+text-align: center;
+line-height: 20px;
+}
+.container{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text-block{
+    position: absolute;
+    top: 70px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    max-width: 500px;
+}
+.nav-wrap{
+    max-width: 960px;
+    margin: 0 auto;
+}
+.content-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    display: inline;
+}
+.textbox {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px
+}
+#message {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 50px;
+}
+.body{
+    background-color: lightblue;
+}
+
+.portfolio-wrapper {
+    content: "";
+    clear: both;
+    display: table;
+    left: 15%;
+    right:15%;
+    bottom: 0 auto;
+}
+.col-right{
+    float: right;
+    width: 50%;
+}
+.col-left{
+    float: left;
+    width: 50%
+}
+.container .pics {
+    max-width: 500px;
+    width: 100%;
+}
+#links {
+    text-align: center;
+}
+#content-box{
+    float: right;
+    width: 15%;
+    height: 40%;
+}
